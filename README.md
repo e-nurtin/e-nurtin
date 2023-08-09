@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ersin Nurtin
 - 👀 My interests are anything data related, Web, APIs and more! 
-- 🌱 I’m currently learning Flask!
+- 🌱 I’m currently learning SQL, Azure and Dynamics 365!
 - 💞️ I’m looking to collaborate on anything that will challenge me and sharpen my skills! 
 - 📫 You can reach me through - ersin.nurtin@outlook.com
 
